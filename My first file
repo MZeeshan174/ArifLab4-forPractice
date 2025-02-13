@@ -6,3 +6,11 @@ int sum = n1+n2;
 Console.WriteLine("Sum is : "+ sum);
 int sub = n1-n2;
 Console.WriteLine("Sub is : "+ sub);
+//
+Console.WriteLine("Enter a Number");
+int n1 =Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter a Number");
+int n2 =Convert.ToInt32(Console.ReadLine());
+int sum;
+sum = n1+n2
+Console.WriteLine("Sum of No. is :"+sum);
